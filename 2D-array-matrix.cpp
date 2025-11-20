@@ -205,6 +205,7 @@ main_menu:
     else {
         cout << "Enter number of rows: ";
         cin >> rows;
+        
         cout << "Enter number of columns: ";
         cin >> cols;
 
